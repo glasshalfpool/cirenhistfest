@@ -187,14 +187,37 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif",
-					"name": "Humanist",
-					"slug": "primary"				
+					"fontFace": [
+						{
+							"fontFamily": "BatonNouveau",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/BatonNouveauWeb-CondensedBook.woff"
+							]
+						},
+						{
+							"fontFamily": "BatonNouveau",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/BatonNouveauWeb-CondensedBook.woff2"
+							]
+						}
+					],
+					"fontFamily": "BatonNouveau",
+					"name": "Baton Nouveau",
+					"slug": "heading"
 				},
 				{
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
 					"name": "System Font",
 					"slug": "system-font"
+				},
+				{
+					"fontFamily": "Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+					"name": "System Serif",
+					"slug": "system-serif"
 				}
 			],
 			"fontSizes": [
@@ -541,12 +564,16 @@
 			},
 			"h1": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--x-large)"
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
+					"textTransform": "uppercase"
 				}
 			},
 			"h2": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--x-large)"
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"fontFamily": "var(--wp--preset--font-family--heading)",
+					"textTransform": "uppercase"
 				}
 			},
 			"h3": {
@@ -572,7 +599,7 @@
 			"heading": {
 				"typography": {
 					"fontWeight": "var(--wp--custom--font-weight--regular)",
-					"lineHeight": "var(--wp--custom--line-height--heading)"
+					"lineHeight": "var(--wp--custom--line-height--heading)"					
 				}
 			},
 			"link": {
@@ -596,7 +623,7 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--primary)",
+			"fontFamily": "var(--wp--preset--font-family--system-serif)",
 			"fontSize": "var(--wp--preset--font-size--medium)",
 			"fontWeight": "var(--wp--custom--font-weight--light)",
 			"lineHeight": "var(--wp--custom--line-height--body)"
