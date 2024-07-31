@@ -116,7 +116,7 @@ textarea {
 /* -- Button Variant -- */
 
 .wp-block-button.is-style-outline:hover {
-	color: var(--wp--preset--color--base);
+	color: var(--wp--preset--color--secondary);
 	background-color: var(--wp--preset--color--contrast);
 	border-radius: 5px;
 }
