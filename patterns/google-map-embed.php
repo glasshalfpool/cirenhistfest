@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Google Map embed
- * Slug: cirenhistfest/google-map
+ * Slug: cirenhistfest/google-map-embed
  * Categories: featured
  */
 ?>

@@ -2,7 +2,7 @@
 /**
  * Title: Sample home page.
  * Slug: cirenhistfest/page-home
- * Categories: cirenhistfest-page
+ * Categories: page
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","bottom":"var:preset|spacing|x-large","left":"30px","top":"70px"},"margin":{"top":"0px"},"blockGap":"10px"}},"className":"welcome","layout":{"type":"constrained","wideSize":"800px"}} -->

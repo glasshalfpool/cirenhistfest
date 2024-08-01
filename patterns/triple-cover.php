@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Three column cover image with text
- * Slug: cirenhistfest/triple cover
+ * Slug: cirenhistfest/triple-cover
  * Categories: featured
  */
 ?>

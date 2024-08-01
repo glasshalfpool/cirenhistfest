@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Three column image headers and paragraphs
- * Slug: cirenhistfest/triple intro
+ * Slug: cirenhistfest/triple-intro
  * Categories: featured
  */
 ?>

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Speaker image and info
- * Slug: cirenhistfest/speaker
+ * Slug: cirenhistfest/speaker-info
  * Categories: featured
  */
 ?>
