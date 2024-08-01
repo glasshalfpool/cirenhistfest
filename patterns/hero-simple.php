@@ -6,7 +6,7 @@
  */
 ?>
 
-<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"categories":["featured"],"patternName":"cirenhistfest/hero-simple","name":"Hero section with centred header and paragrpah"},"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:spacer {"height":"var:preset|spacing|medium"} -->
 <div style="height:var(--wp--preset--spacing--medium)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
@@ -17,9 +17,5 @@
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|large"} -->
-<div style="height:var(--wp--preset--spacing--large)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group -->

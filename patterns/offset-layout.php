@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Two row grid, with title, paragraph, bold text and button
- * Slug: cirenhistfest/offser-layout
+ * Slug: cirenhistfest/offset-layout
  * Categories: featured
  */
 ?>

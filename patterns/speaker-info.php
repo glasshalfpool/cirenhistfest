@@ -11,15 +11,15 @@
 <div style="height:var(--wp--preset--spacing--medium)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns {"verticalAlignment":null,"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|large"}}}} -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|large"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":45,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}},"textColor":"blue"} -->
+<!-- wp:column {"verticalAlignment":"center","width":"66.66%","style":{"spacing":{"padding":{"right":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--x-small);padding-left:var(--wp--preset--spacing--x-small);flex-basis:66.66%"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}},"textColor":"blue"} -->
 <h2 class="wp-block-heading has-blue-color has-text-color has-link-color">Speaker Name</h2>
 <!-- /wp:heading -->
 
@@ -33,9 +33,5 @@
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|large"} -->
-<div style="height:var(--wp--preset--spacing--large)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
