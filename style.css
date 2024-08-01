@@ -190,3 +190,12 @@ textarea {
 	}
 
 }
+
+/* -- Quirky One Offs -- */
+@media (min-width: 1180px) {
+
+    .wp-block-group.minus-top-margin {
+        margin-top: -8rem!important;
+    }
+
+}
