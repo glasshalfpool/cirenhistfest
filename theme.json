@@ -372,6 +372,9 @@
 					}
 				}
 			},
+			"core/group": {
+				"css": "& .icon_responsive figure {flex-basis:15%;} & .icon_responsive img {height: 70px!important; object-fit: contain!important;}"
+			},
 			"core/image": {
 				"spacing": {
 					"margin": {
