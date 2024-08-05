@@ -373,7 +373,7 @@
 				}
 			},
 			"core/group": {
-				"css": "& .icon_responsive figure {flex-basis:15%;} & .icon_responsive img {height: 70px!important; object-fit: contain!important;}"
+				"css": "& .icon_responsive figure {flex-basis:15%;} & .icon_responsive img {height: 70px!important; object-fit: contain!important;} & .flexible-logos-container {display: flex; gap: 1rem 1rem; align-items:center; justify-content:center; flex-wrap:wrap;} & .flexible-logos-container figure {flex-basis: clamp(6rem, 4.571rem + 3.81vw, 8rem);} margin: 10px 0 10px 0!important"
 			},
 			"core/image": {
 				"spacing": {
