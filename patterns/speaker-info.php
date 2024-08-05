@@ -6,14 +6,14 @@
  */
 ?>
 
-<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:group {"metadata":{"categories":["featured"],"patternName":"cirenhistfest/speaker-info","name":"Speaker image and info"},"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|medium"} -->
 <div style="height:var(--wp--preset--spacing--medium)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|large"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
-<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":45,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|x-small"}}}} -->
+<div class="wp-block-column" style="padding-bottom:var(--wp--preset--spacing--x-small);flex-basis:33.33%"><!-- wp:image {"id":45,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
