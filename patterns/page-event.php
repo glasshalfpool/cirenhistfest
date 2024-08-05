@@ -90,7 +90,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":45,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -108,7 +108,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:media-text {"align":"wide","mediaId":45,"mediaLink":"http://cirencester-history-festival.local/sample-page/speaker-placeholder/","mediaType":"image","imageFill":false} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
 <h2 class="wp-block-heading has-secondary-color has-text-color has-link-color">This is a title</h2>
 <!-- /wp:heading -->
 
@@ -142,7 +142,7 @@
 <div class="wp-block-buttons"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Button text</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45 size-full"/></figure></div>
+<!-- /wp:buttons --></div><figure class="wp-block-media-text__media"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45 size-full"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

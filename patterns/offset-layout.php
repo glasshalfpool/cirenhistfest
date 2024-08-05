@@ -15,7 +15,7 @@
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"className":"icon_responsive","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group icon_responsive"><!-- wp:image {"id":46,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/chf-illustration_hare-dark-coral.webp" alt="" class="wp-image-46"/></figure>
+<figure class="wp-block-image size-full"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/chf-illustration_hare-dark-coral.webp" alt="" class="wp-image-46"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-large"} -->

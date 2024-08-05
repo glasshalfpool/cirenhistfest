@@ -17,7 +17,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":45,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/speaker-placeholder.webp" alt="" class="wp-image-45" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 

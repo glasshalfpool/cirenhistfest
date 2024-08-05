@@ -4,6 +4,7 @@
  * Slug: cirenhistfest/posts
  * Categories: posts
  * Block Types: core/query
+ * Inserter: no
  */
 ?>
 <!-- wp:query {"queryId":0,"query":{"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->

@@ -12,7 +12,7 @@
 
 <!-- wp:group {"className":"icon_responsive","style":{"spacing":{"blockGap":"var:preset|spacing|x-small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group icon_responsive"><!-- wp:image {"id":35,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://cirencester-history-festival.local/wp-content/uploads/2024/07/chf-illustration_owl-blue.webp" alt="" class="wp-image-35"/></figure>
+<figure class="wp-block-image size-full"><img src="https://cirencesterhistoryfestival.org/wp-content/uploads/2024/07/chf-illustration_owl-blue.webp" alt="" class="wp-image-35"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|blue"}}}},"textColor":"blue","fontSize":"Mega"} -->
