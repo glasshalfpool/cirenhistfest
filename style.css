@@ -121,6 +121,14 @@ textarea {
 	border-radius: 5px;
 }
 
+@media (max-width: 718px) {
+
+	.wp-block-buttons.is-content-justification-right {
+		justify-content: flex-start;
+	}
+
+}
+
 /* -- Navigation -- */
 
 .wp-block-navigation__responsive-container.is-menu-open {
@@ -198,4 +206,14 @@ textarea {
         margin-top: -8rem!important;
     }
 
+}
+
+/* -- Filter Everything Pro -- */
+#wpc-taxonomy-date-669 {
+	border: 1px solid #808080;
+	border-radius: 0.5rem;
+	font-size: var(--wp--preset--font-size--small);
+	max-width: 350px;
+	margin: 0 auto;
+	display: block;
 }
