@@ -93,17 +93,24 @@ add_action( 'init', 'cirenhistfest_register_block_styles' );
 function cirenhistfest_register_block_pattern_categories() {
 
 	register_block_pattern_category(
-		'cirenhistfest-page',
+		'page',
 		array(
 			'label'       => __( 'Page', 'cirenhistfest' ),
 			'description' => __( 'Create a full page with multiple patterns that are grouped together.', 'cirenhistfest' ),
 		)
 	);
 	register_block_pattern_category(
-		'cirenhistfest-pricing',
+		'locations',
 		array(
-			'label'       => __( 'Pricing', 'cirenhistfest' ),
-			'description' => __( 'Compare features for your digital products or service plans.', 'cirenhistfest' ),
+			'label'       => __( 'Locations', 'cirenhistfest' ),
+			'description' => __( 'Locations of Cirencester History Festival Events.', 'cirenhistfest' ),
+		)
+	);
+	register_block_pattern_category(
+		'events',
+		array(
+			'label'       => __( 'Events', 'cirenhistfest' ),
+			'description' => __( 'Elements for History Festival Events.', 'cirenhistfest' ),
 		)
 	);
 

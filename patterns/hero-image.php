@@ -2,7 +2,7 @@
 /**
  * Title: Hero section with icon, header and paragrpah
  * Slug: cirenhistfest/hero-image
- * Categories: featured
+ * Categories: header
  */
 ?>
 <!-- wp:group {"align":"full","backgroundColor":"dawn","layout":{"type":"constrained"}} -->

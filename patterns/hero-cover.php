@@ -2,7 +2,7 @@
 /**
  * Title: Hero section with background image, header and paragrpah
  * Slug: cirenhistfest/hero-cover
- * Categories: featured
+ * Categories: header
  */
 ?>
 

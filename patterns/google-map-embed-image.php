@@ -2,7 +2,7 @@
 /**
  * Title: Google Map embed with image
  * Slug: cirenhistfest/google-map-embed-image
- * Categories: featured
+ * Categories: locations
  */
 ?>
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->

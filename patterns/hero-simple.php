@@ -2,7 +2,7 @@
 /**
  * Title: Hero section with centred header and paragrpah
  * Slug: cirenhistfest/hero-simple
- * Categories: featured
+ * Categories: header
  */
 ?>
 
