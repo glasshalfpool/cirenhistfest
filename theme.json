@@ -396,13 +396,19 @@
 			"core/navigation": {
 				"elements": {
 					"link": {
+						":hover": {
+							"color": {
+								"text": "var(--wp--preset--color--contrast)"
+							}
+						},
+						"color": {
+							"text": "var(--wp--preset--color--primary)"
+						},
 						"typography": {
+							"fontSize": "var(--wp--preset--font-size--small)",
 							"textDecoration": "none"
 						}
 					}
-				},
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/paragraph": {
